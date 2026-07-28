@@ -66,7 +66,7 @@ The project applies **Natural Language Processing (NLP)** techniques such as tex
 - 🐍 Python
 - 🐼 Pandas
 - 🔢 NumPy
-- 🤖 Scikit-Learn
+- 🤖 Scikit-Learn(naive_bayes,accuracy_score,Classification_report,Confusion_matrix)
 - 📚 NLTK
 - ☁️ WordCloud
 - 📈 Matplotlib
