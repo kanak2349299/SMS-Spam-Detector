@@ -7,14 +7,23 @@
 ## ✨ Repository Highlights
 
 ✔ NLP-Based SMS Spam Detection
+
 ✔ Text Preprocessing Pipeline
+
 ✔ TF-IDF Feature Extraction
+
 ✔ Machine Learning Model Training
+
 ✔ Model Evaluation Metrics
+
 ✔ Confusion Matrix
+
 ✔ Data Visualizations
+
 ✔ Saved ML Model (.pkl)
+
 ✔ Saved TF-IDF Vectorizer
+
 ✔ Clean & Beginner-Friendly Notebook
 
 
