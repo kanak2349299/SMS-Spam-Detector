@@ -234,7 +234,7 @@ The close training and testing accuracies indicate that the model generalizes we
 
 ## ☁️ Ham WordCloud
 
-[![Ham WordCloud](Graphs/Wordcloud of ham.png)](https://github.com/kanak2349299/SMS-Spam-Classifier/blob/main/Graphs/Wordcloud%20of%20ham.png?raw=true)
+![Ham WordCloud](Graphs/Wordcloud of ham.png)
 
 ---
 
