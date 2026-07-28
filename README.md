@@ -239,8 +239,7 @@ The close training and testing accuracies indicate that the model generalizes we
 ---
 
 ## 📊 Confusion Matrix
-
-[![Confusion Matrix](Graphs/Confusion Matrix.png)](https://github.com/kanak2349299/SMS-Spam-Classifier/blob/main/Graphs/Confusion%20Matrix.png?raw=true)
+https://github.com/kanak2349299/SMS-Spam-Classifier/blob/main/Graphs/Confusion%20Matrix.png
 
 ---
 
