@@ -234,18 +234,19 @@ The close training and testing accuracies indicate that the model generalizes we
 
 ## ☁️ Ham WordCloud
 
-![Ham WordCloud](Graphs/Wordcloud of ham.png)
+<img width="1687" height="1703" alt="image" src="https://github.com/user-attachments/assets/73703f18-a034-4403-b098-698f5dd179d9" />
 
 ---
 
 ## 📊 Confusion Matrix
-https://github.com/kanak2349299/SMS-Spam-Classifier/blob/main/Graphs/Confusion%20Matrix.png
+ht<img width="1618" height="1361" alt="image" src="https://github.com/user-attachments/assets/38481db2-de13-46ad-b91f-04d862f9dc40" />
+
 
 ---
 
 ## 📈 Actual vs Predicted
+<img width="1841" height="1233" alt="image" src="https://github.com/user-attachments/assets/3bd411f6-14c3-4825-a74d-fd5d881ae616" />
 
-![Actual vs Predicted](Graphs/Actual Vs Predicted.png)
 
 ---
 
